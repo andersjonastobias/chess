@@ -1,0 +1,684 @@
+
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
+go movetime 100
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g8f6position fen r1bqkbnr/pppppppp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
+go movetime 100
+g7g6position fen r1bqkbnr/ppppp1pp/2n2p2/8/2PPP3/8/PP3PPP/RNBQKBNR b KQkq c3 0 3
+go movetime 100
+h7h5position fen r1bqkbnr/ppp1p1pp/2n2p2/3P4/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 4
+go movetime 100
+c6e5position fen r1b1kbnr/ppp1p1pp/2nq1p2/2PP4/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5
+go movetime 100
+c6a5position fen r1b1kbnr/ppp1p1pp/2n2p2/2PPq3/3P4/8/PP2BPPP/RNBQK1NR b KQkq - 2 6
+go movetime 100
+e7e6position fen r1b1kbnr/ppp1p1pp/2n2p2/2PP4/3P4/8/PP2QPPP/RNB1K1NR b KQkq - 0 7
+go movetime 100
+e8f7uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g7g5position fen rnbqkbnr/ppppppp1/8/7p/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
+go movetime 100
+a7a5position fen rnbqkb1r/ppppppp1/5n2/7p/3PP3/3B4/PPP2PPP/RNBQK1NR b KQkq - 2 3
+go movetime 100
+h5h4position fen rnbqkb1r/pp1pppp1/2p2n2/7p/3PP3/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 4
+go movetime 100
+a7a6position fen r1bqkb1r/pp1pppp1/n1p2n2/4P2p/3P4/3B1N2/PPP2PPP/RNBQK2R b KQkq - 0 5
+go movetime 100
+f6g8position fen r1bqkb1r/pp1pppp1/n1p5/4P1Np/3P2n1/3B4/PPP2PPP/RNBQK2R b KQkq - 2 6
+go movetime 100
+a6b4position fen r1bqkb1r/pp1pppp1/n7/2p1P1Np/3P2n1/3B3P/PPP2PP1/RNBQK2R b KQkq - 0 7
+go movetime 100
+g4h2position fen r1bqkb1r/pp1pp1p1/n7/2p1PpNp/3P2P1/3B4/PPP2PP1/RNBQK2R b KQkq - 0 8
+go movetime 100
+d7d5position fen r1bqkb1r/pp1pp3/n5p1/2p1PpNP/3P4/3B4/PPP2PP1/RNBQK2R b KQkq - 0 9
+go movetime 100
+a8b8position fen r1bqk2r/pp1pp3/n5Pb/2p1PpN1/3P4/3B4/PPP2PP1/RNBQK2R b KQkq - 0 10
+go movetime 100
+h8h7position fen r1bqk2r/pp2p1P1/n6b/2ppPpN1/3P4/3B4/PPP2PP1/RNBQK2R b KQkq - 0 11
+go movetime 100
+h8g8position fen r1bqk3/pp2p1Pr/n6b/2ppPBN1/3P4/8/PPP2PP1/RNBQK2R b KQq - 0 12
+go movetime 100
+e7e6position fen rnbqk3/pp2p1PN/7b/2ppPB2/3P4/8/PPP2PP1/RNBQK2R b KQq - 0 13
+go movetime 100
+b7b6position fen rnbq4/pp2pkPN/7R/2ppPB2/3P4/8/PPP2PP1/RNBQK3 b Q - 0 14
+go movetime 100
+d8a5position fen rnbq2k1/pp2p1PN/7R/2ppPB2/3P2Q1/8/PPP2PP1/RNB1K3 b Q - 2 15
+go movetime 100
+g8f7position fen rnb3k1/pp2p1PN/7R/q1ppPB2/3P2Q1/2P5/PP3PP1/RNB1K3 b Q - 0 16
+go movetime 100
+a5a6position fen rnb3k1/pp2p1PN/q3P2R/2pp1B2/3P2Q1/2P5/PP3PP1/RNB1K3 b Q - 0 17
+go movetime 100
+a6e6position fen rnb3k1/pp2p1PN/4P2R/2pp1B2/3P2Q1/2P5/PP2KPP1/RNB5 b - - 0 18
+go movetime 100
+c5c4position fen r1b3k1/pp2p1PN/n3P1QR/2pp1B2/3P4/2P5/PP2KPP1/RNB5 b - - 2 19
+go movetime 100
+a8b8position fen r1b3k1/p3pQPN/n3P2R/1ppp1B2/3P4/2P5/PP2KPP1/RNB5 b - - 1 20
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+b7b6position fen rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2
+go movetime 100
+f7f6position fen rnbqkb1r/pppp1ppp/5n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 3
+go movetime 100
+d7d6position fen rnbq1b1r/ppppkQpp/5n2/4p3/2B1P3/8/PPPP1PPP/RNB1K1NR b KQ - 0 4
+go movetime 100
+e7d6position fen rnbq1b1r/pppp1Qpp/3k1n2/4p3/2B1P3/2N5/PPPP1PPP/R1B1K1NR b KQ - 2 5
+go movetime 100
+b8a6position fen rnbq3r/ppppbQpp/3k1n2/1N2p3/2B1P3/8/PPPP1PPP/R1B1K1NR b KQ - 4 6
+go movetime 100
+d6c5position fen rnbq3r/ppppbQpp/2k2n2/1N2p3/2BPP3/8/PPP2PPP/R1B1K1NR b KQ d3 0 7
+go movetime 100
+h8g8position fen rnbq3r/ppppbQpp/2k2n2/1N2P3/2Bp4/8/PPP2PPP/R1B1K1NR b KQ - 0 8
+go movetime 100
+d4d3position fen rnbq3r/1pppbQpp/2k2P2/pN6/2Bp4/8/PPP2PPP/R1B1K1NR b KQ - 0 9
+go movetime 100
+b7b6position fen rnbq3r/1pppPQ1p/2k5/pN4p1/2Bp4/8/PPP2PPP/R1B1K1NR b KQ - 0 10
+go movetime 100
+d8e8position fen rnb4r/1pppQ2p/2k5/pN4p1/2Bp4/8/PPP2PPP/R1B1K1NR b KQ - 0 11
+go movetime 100
+b8a6position fen rnb4r/1ppp3p/1k3Q2/pN4p1/2Bp4/8/PPP2PPP/R1B1K1NR b KQ - 2 12
+go movetime 100
+d7d6position fen rnb4r/1ppp3p/8/pNk1Q1p1/2Bp4/8/PPP2PPP/R1B1K1NR b KQ - 4 13
+go movetime 100
+c5c4position fen rnb4r/1ppp3p/8/pN2Q1p1/2kp4/1P6/P1P2PPP/R1B1K1NR b KQ - 0 14
+go movetime 100
+c4b4position fen rnb4r/1ppp3p/8/pN2Q1p1/1k1p4/1P6/P1PB1PPP/R3K1NR b KQ - 2 15
+go movetime 100
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g7g6position fen rnbqkbnr/pp1ppppp/2p5/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2
+go movetime 100
+b7b6position fen rnbqkbnr/pp1ppppp/8/2p5/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 1 3
+go movetime 100
+b8c6position fen rnbqkbnr/pp1pp1pp/8/2p2Q2/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 0 4
+go movetime 100
+d7d6position fen rnbqkbnr/p2ppQpp/8/1pp5/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 1 5
+go movetime 100
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g8f6position fen r1bqkbnr/pppppppp/n7/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 2 2
+go movetime 100
+f7f6position fen r1bqkbnr/pppp1ppp/n3p3/8/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 1 3
+go movetime 100
+b7b6position fen r1b1kbnr/pppp1ppp/n3pq2/7Q/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 4
+go movetime 100
+f6e5position fen r1b1kb1r/pppp1ppp/n3pq1n/4P2Q/2B5/8/PPPP1PPP/RNB1K1NR b KQkq - 0 5
+go movetime 100
+h6f5position fen r1b1kb1r/ppppqppp/n3p2n/4P2Q/2B5/3P4/PPP2PPP/RNB1K1NR b KQkq - 0 6
+go movetime 100
+a6b8position fen r1b1kb1r/pppp1ppp/n3pP1n/7Q/2B5/3P4/PPP2PPP/RNB1K1NR b KQkq - 0 7
+go movetime 100
+g7f6position fen r1bk1b1r/pppp1pPp/n3p2n/7Q/2B5/3P4/PPP2PPP/RNB1K1NR b KQ - 0 8
+go movetime 100
+a6c5position fen r1bk3r/pppp1pPp/n3p2n/7Q/1bB5/2PP4/PP3PPP/RNB1K1NR b KQ - 0 9
+go movetime 100
+b4c5position fen r1bk3r/pppp1pPp/n3p2n/7Q/2B5/2NP4/PP3PPP/R1B1K1NR b KQ - 0 10
+go movetime 100
+d8e8position fen r1bk2nQ/pppp1p1p/n3p3/7Q/2B5/2NP4/PP3PPP/R1B1K1NR b KQ - 0 11
+go movetime 100
+a6b8position fen r1bk2Q1/pppp1p1p/n7/4p2Q/2B5/2NP4/PP3PPP/R1B1K1NR b KQ - 0 12
+go movetime 100
+d8e7uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+a7a5position fen rnbqkbnr/1ppppppp/8/p7/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
+go movetime 100
+b7b5uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+a7a5uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g8h6position fen rnbqkb1r/pppppppp/7n/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2
+go movetime 100
+h8g8position fen rnbqkbr1/pppppppp/7n/8/3PPP2/8/PPP3PP/RNBQKBNR b KQq d3 0 3
+go movetime 100
+g8h8position fen rnbqkb1r/pppppppp/7n/8/3PPPP1/8/PPP4P/RNBQKBNR b KQq g3 0 4
+go movetime 100
+b8c6position fen r1bqkb1r/pppppppp/2n4n/6P1/3PPP2/8/PPP4P/RNBQKBNR b KQq - 0 5
+go movetime 100
+h6g8position fen r1bqkbnr/pppppppp/2n5/3P2P1/4PP2/8/PPP4P/RNBQKBNR b KQq - 0 6
+go movetime 100
+c6b4position fen r1bqkbnr/pppppppp/8/3P2P1/1n2PP2/8/PPPB3P/RN1QKBNR b KQq - 2 7
+go movetime 100
+a7a5position fen r1bqkbnr/1ppppppp/8/p2P2P1/1n2PP2/P7/1PPB3P/RN1QKBNR b KQq - 0 8
+go movetime 100
+b4a6position fen r1bqkbnr/1ppppppp/B7/p2P2P1/4PP2/P7/1PPB3P/RN1QK1NR b KQq - 0 9
+go movetime 100
+a8a6position fen 2bqkbnr/1ppppppp/r7/p2P2P1/4PP2/P7/1PPBQ2P/RN2K1NR b KQ - 1 10
+go movetime 100
+a6a8position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g8h6position fen rnbqkb1r/pppppppp/7n/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
+go movetime 100
+h8g8position fen rnbqkbr1/pppppppp/7B/8/3PP3/8/PPP2PPP/RN1QKBNR b KQq - 0 3
+go movetime 100
+g7h6position fen rnbqkbr1/pppppp1p/7p/8/3PP3/8/PPPQ1PPP/RN2KBNR b KQq - 1 4
+go movetime 100
+g8g6position fen rnbqkb2/pppppp1p/6rp/8/3PPP2/8/PPPQ2PP/RN2KBNR b KQq f3 0 5
+go movetime 100
+f8g7position fen rnbqk3/ppppppbp/6rp/5P2/3PP3/8/PPPQ2PP/RN2KBNR b KQq - 0 6
+go movetime 100
+g6f6position fen rnbqk3/ppppppbp/5r1p/4PP2/3P4/8/PPPQ2PP/RN2KBNR b KQq - 0 7
+go movetime 100
+f6f5position fen rnbqk3/ppppppbp/7p/4Pr2/3P4/3B4/PPPQ2PP/RN2K1NR b KQq - 1 8
+go movetime 100
+f5h5position fen rnbqk3/ppppppbB/7p/4P2r/3P4/8/PPPQ2PP/RN2K1NR b KQq - 0 9
+go movetime 100
+e8f8position fen rnbq1k2/ppppppbB/7p/4P2r/3P4/5N2/PPPQ2PP/RN2K2R b KQ - 2 10
+go movetime 100
+f8e8position fen rnbqk3/ppppppbB/7p/4P2r/3P2P1/5N2/PPPQ3P/RN2K2R b KQ g3 0 11
+go movetime 100
+h5h3uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g8f6position fen rnbqkb1r/pppppppp/5n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2
+go movetime 100
+b8c6position fen r1bqkb1r/pppppppp/2n2n2/8/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 4 3
+go movetime 100
+e7e6position fen r1bqkb1r/pppp1ppp/2n1pn2/8/2B1P3/2NP4/PPP2PPP/R1BQK1NR b KQkq - 0 4
+go movetime 100
+f8d6position fen r1bqk2r/pppp1ppp/2nbpn2/8/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 2 5
+go movetime 100
+e8g8position fen r1bq1rk1/pppp1ppp/2nbpn2/6B1/2B1P3/2NP1N2/PPP2PPP/R2QK2R b KQ - 4 6
+go movetime 100
+d6h2position fen r1bq1rk1/pppp1ppp/2n1pn2/6B1/2B1P3/2NP1N2/PPP2PPR/R2QK3 b Q - 0 7
+go movetime 100
+d7d5position fen r1bq1rk1/ppp2ppp/2n1pn2/3P2B1/2B5/2NP1N2/PPP2PPR/R2QK3 b Q - 0 8
+go movetime 100
+e6d5position fen r1bq1rk1/ppp2ppp/2n2n2/3N2B1/2B5/3P1N2/PPP2PPR/R2QK3 b Q - 0 9
+go movetime 100
+f8e8position fen r1bqr1k1/ppp2ppp/2n2n2/6B1/2B5/3PNN2/PPP2PPR/R2QK3 b Q - 2 10
+go movetime 100
+e8e3position fen r1bq2k1/ppp2ppp/2n2n2/6B1/2B5/3PPN2/PPP3PR/R2QK3 b Q - 0 11
+go movetime 100
+c8f5position fen r2q2k1/ppp2ppp/2n2n2/5bB1/2BN4/3PP3/PPP3PR/R2QK3 b Q - 2 12
+go movetime 100
+c6d4position fen r2q2k1/ppp2ppp/5n2/5bB1/2BP4/3P4/PPP3PR/R2QK3 b Q - 0 13
+go movetime 100
+d8e7position fen r5k1/ppp1qppp/5n2/5bB1/2BP4/3P4/PPP2KPR/R2Q4 b - - 2 14
+go movetime 100
+f5d3position fen r5k1/ppp1qppp/5n2/6B1/3P4/3B4/PPP2KPR/R2Q4 b - - 0 15
+go movetime 100
+a8e8position fen 4r1k1/ppp1qppp/5n2/6B1/3P2Q1/3B4/PPP2KPR/R7 b - - 2 16
+go movetime 100
+f6g4position fen 4r1k1/ppp1qppp/8/6B1/3P2n1/3B4/PPP3PR/R5K1 b - - 1 17
+go movetime 100
+e7g5position fen 4r1k1/ppp2ppp/8/6q1/3P2n1/3B4/PPP3PR/5RK1 b - - 1 18
+go movetime 100
+g4h2position fen 4r1k1/ppp2ppp/8/6q1/3P4/3B4/PPP3PK/5R2 b - - 0 19
+go movetime 100
+g5h4position fen 4r1k1/ppp2ppp/8/8/3P3q/3B4/PPP3P1/5RK1 b - - 2 20
+go movetime 100
+h4d4position fen 4r1k1/ppp2ppp/8/8/3q4/3B4/PPP2RP1/6K1 b - - 1 21
+go movetime 100
+h7h6uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g8f6position fen rnbqkb1r/pppppppp/5n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2
+go movetime 100
+b8c6position fen r1bqkb1r/pppppppp/2n2n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq d3 0 3
+go movetime 100
+e7e6position fen r1bqkb1r/pppp1ppp/2n1pn2/8/3PP3/2NB4/PPP2PPP/R1BQK1NR b KQkq - 1 4
+go movetime 100
+c6d4position fen r1bqkb1r/pppp1ppp/4pn2/8/3nP3/2NBB3/PPP2PPP/R2QK1NR b KQkq - 1 5
+go movetime 100
+d4c6position fen r1bqkb1r/pppp1ppp/2n1pn2/8/4P3/2NBBN2/PPP2PPP/R2QK2R b KQkq - 3 6
+go movetime 100
+a7a5position fen r1bqkb1r/1ppp1ppp/2n1pn2/p3P3/8/2NBBN2/PPP2PPP/R2QK2R b KQkq - 0 7
+go movetime 100
+f6g4position fen r1bqkb1r/1ppp1ppp/2n1p3/p3P3/6n1/2NBBN1P/PPP2PP1/R2QK2R b KQkq - 0 8
+go movetime 100
+g4e3position fen r1bqkb1r/1ppp1ppp/2n1p3/p3P3/8/2NBPN1P/PPP3P1/R2QK2R b KQkq - 0 9
+go movetime 100
+h7h6position fen r1bqkb1r/1ppp1pp1/2n1p2p/p3P3/6P1/2NBPN1P/PPP5/R2QK2R b KQkq g3 0 10
+go movetime 100
+f8c5position fen r1bqk2r/1ppp1pp1/2n1p2p/p1b1P3/6P1/2NBPN1P/PPPQ4/R3K2R b KQkq - 2 11
+go movetime 100
+e8g8position fen r1bq1rk1/1ppp1pp1/2n1p2p/p1b1P3/6P1/2NBPN1P/PPPQ4/2KR3R b - - 4 12
+go movetime 100
+f8e8position fen r1bqr1k1/1ppp1pp1/2n1p2p/p1b1P3/6PP/2NBPN2/PPPQ4/2KR3R b - - 0 13
+go movetime 100
+d8e7position fen r1b1r1k1/1pppqpp1/2n1p2p/p1b1P1P1/7P/2NBPN2/PPPQ4/2KR3R b - - 0 14
+go movetime 100
+h6g5position fen r1b1r1k1/1pppqpp1/2n1p3/p1b1P1N1/7P/2NBP3/PPPQ4/2KR3R b - - 0 15
+go movetime 100
+c6e5position fen r1b1r1k1/1pppqpp1/4p3/p1b1n1N1/4P2P/2NB4/PPPQ4/2KR3R b - - 0 16
+go movetime 100
+e5d3position fen r1b1r1k1/1pppqpp1/4p3/p1b3N1/4P2P/2NP4/PP1Q4/2KR3R b - - 0 17
+go movetime 100
+d7d5position fen r1b1r1k1/1pp1qpp1/4p3/p1bp2NP/4P3/2NP4/PP1Q4/2KR3R b - - 0 18
+go movetime 100
+d5e4position fen r1b1r1k1/1pp1qpp1/4p2P/p1b3N1/4p3/2NP4/PP1Q4/2KR3R b - - 0 19
+go movetime 100
+e4d3position fen r1b1r1k1/1pp1qpP1/4p3/p1b3N1/8/2Np4/PP1Q4/2KR3R b - - 0 20
+go movetime 100
+g8g7position fen r1b1r3/1pp1qpk1/4p3/p1b3N1/8/2Np4/PP1Q4/2K3RR b - - 1 21
+go movetime 100
+c5g1position fen r1b1r3/1pp1qpkR/4p3/p5N1/8/2Np4/PP1Q4/2K3b1 b - - 1 22
+go movetime 100
+g7g8position fen r1b1r1k1/1pp1qp1R/4p3/p5N1/8/2Np4/PP4Q1/2K3b1 b - - 3 23
+go movetime 100
+g1e3position fen r1b1r1k1/1pp1qp1R/4p3/p5N1/8/2Npb3/PP4Q1/1K6 b - - 5 24
+go movetime 100
+e3g5position fen r1b1r1k1/1pp1qp1R/4p3/p5b1/8/2Np3Q/PP6/1K6 b - - 1 25
+go movetime 100
+d3d2position fen r1b1r1kR/1pp1qp2/4p3/p5b1/8/2N4Q/PP1p4/1K6 b - - 1 26
+go movetime 100
+g8g7position fen r1b1r2R/1pp1qpkQ/4p3/p5b1/8/2N5/PP1p4/1K6 b - - 3 27
+go movetime 100
+g7f6position fen r1b1r2R/1pp1qp1Q/4pk2/p5b1/4N3/8/PP1p4/1K6 b - - 5 28
+go movetime 100
+f6e5position fen r1b1r2R/1pp1qp1Q/4p3/p3k1b1/8/8/PP1N4/1K6 b - - 0 29
+go movetime 100
+e8h8uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g8f6position fen rnbqkb1r/pppppppp/5n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2
+go movetime 100
+b8c6position fen r1bqkb1r/pppppppp/2n2n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq d3 0 3
+go movetime 100
+e7e6position fen r1bqkb1r/pppp1ppp/2n1pn2/8/3PP3/2NB4/PPP2PPP/R1BQK1NR b KQkq - 1 4
+go movetime 100
+c6d4position fen r1bqkb1r/pppp1ppp/4pn2/8/3nP3/2NBB3/PPP2PPP/R2QK1NR b KQkq - 1 5
+go movetime 100
+d4c6position fen r1bqkb1r/pppp1ppp/2n1pn2/8/4PP2/2NBB3/PPP3PP/R2QK1NR b KQkq f3 0 6
+go movetime 100
+a7a5position fen r1bqkb1r/1ppp1ppp/2n1pn2/p7/4PP2/2NBBN2/PPP3PP/R2QK2R b KQkq - 1 7
+go movetime 100
+f8d6position fen r1bqk2r/1ppp1ppp/2nbpn2/p7/4PP2/2NBBN2/PPPQ2PP/R3K2R b KQkq - 3 8
+go movetime 100
+e8g8position fen r1bq1rk1/1ppp1ppp/2nbpn2/p7/4PP2/2NBBN2/PPPQ2PP/2KR3R b - - 5 9
+go movetime 100
+f8e8position fen r1bqr1k1/1ppp1ppp/2nbpn2/p7/4PPP1/2NBBN2/PPPQ3P/2KR3R b - g3 0 10
+go movetime 100
+f6g4position fen r1bqr1k1/1ppp1ppp/2nbp3/p7/4PPn1/2NBBN1P/PPPQ4/2KR3R b - - 0 11
+go movetime 100
+g4e3position fen r1bqr1k1/1ppp1ppp/2nbp3/p7/4PP2/2NBQN1P/PPP5/2KR3R b - - 0 12
+go movetime 100
+d8f6position fen r1b1r1k1/1ppp1ppp/2nbpq2/p7/4PP2/2NBQN1P/PPP5/2KR2R1 b - - 2 13
+go movetime 100
+e6e5position fen r1b1r1k1/1ppp1ppp/2nb1q2/p3P3/4P3/2NBQN1P/PPP5/2KR2R1 b - - 0 14
+go movetime 100
+c6e5position fen r1b1r1k1/1ppp1ppp/3b1q2/p3n3/4P2N/2NBQ2P/PPP5/2KR2R1 b - - 1 15
+go movetime 100
+f6h4position fen r1b1r1k1/1ppp1pRp/3b4/p3n3/4P2q/2NBQ2P/PPP5/2KR4 b - - 0 16
+go movetime 100
+g8g7position fen r1b1r3/1ppp1pkp/3b4/p3n3/4P2q/2NB3P/PPP5/2KR2Q1 b - - 1 17
+go movetime 100
+g7h8position fen r1b1r2k/1ppp1p1p/3b4/p3n3/3QP2q/2NB3P/PPP5/2KR4 b - - 3 18
+go movetime 100
+h4f4position fen r1b1r2k/1ppp1p1p/3b4/p3n3/3QPq2/2NB3P/PPP5/1K1R4 b - - 5 19
+go movetime 100
+h8g8position fen r1b1r1k1/1ppp1p1p/3b4/p2Nn3/3QPq2/3B3P/PPP5/1K1R4 b - - 7 20
+go movetime 100
+f4f3position fen r1b1r1k1/1ppp1p1p/3b4/p2Nn3/3QP3/3B1q1P/PPP5/1K3R2 b - - 9 21
+go movetime 100
+f3h3position fen r1b1r1k1/1ppp1p1p/3b1N2/p3n3/3QP3/3B3q/PPP5/1K3R2 b - - 1 22
+go movetime 100
+g8h8position fen r1b1N2k/1ppp1p1p/3b4/p3n3/3QP3/3B3q/PPP5/1K3R2 b - - 0 23
+go movetime 100
+h3e6position fen r1b4k/1ppp1p1p/3bqN2/p3n3/3QP3/3B4/PPP5/1K3R2 b - - 2 24
+go movetime 100
+e5d3position fen r1b4k/1ppp1p1p/3bqN2/p7/3QP3/3P4/PP6/1K3R2 b - - 0 25
+go movetime 100
+d6e7position fen r1b1N2k/1pppbp1p/4q3/p7/3QP3/3P4/PP6/1K3R2 b - - 2 26
+go movetime 100
+h8g8position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g8f6position fen rnbqkb1r/pppppppp/5n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 2
+go movetime 100
+f6e4position fen rnbqkb1r/pppppppp/8/8/4n3/5N2/PPPPQPPP/RNB1KB1R b KQkq - 1 3
+go movetime 100
+e4d6position fen rnbqkb1r/pppppppp/3n4/8/3P4/5N2/PPP1QPPP/RNB1KB1R b KQkq d3 0 4
+go movetime 100
+b8c6position fen r1bqkb1r/pppppppp/2nn4/8/3P4/2N2N2/PPP1QPPP/R1B1KB1R b KQkq - 2 5
+go movetime 100
+e7e6position fen r1bqkb1r/pppp1ppp/2nnp3/6B1/3P4/2N2N2/PPP1QPPP/R3KB1R b KQkq - 1 6
+go movetime 100
+f7f6position fen r1bqkb1r/pppp2pp/2nnpp2/8/3P3B/2N2N2/PPP1QPPP/R3KB1R b KQkq - 1 7
+go movetime 100
+f8e7position fen r1bqk2r/ppppb1pp/2nnpp2/8/3P3B/2N2N2/PPP1QPPP/2KR1B1R b kq - 3 8
+go movetime 100
+e8g8position fen r1bq1rk1/ppppb1pp/2nnpp2/8/3P2PB/2N2N2/PPP1QP1P/2KR1B1R b - g3 0 9
+go movetime 100
+f8e8position fen r1bqr1k1/ppppb1pp/2nnpp2/8/3P2PB/2N2N2/PPP1QP1P/2KR1BR1 b - - 2 10
+go movetime 100
+a8b8position fen 1rbqr1k1/ppppb1pp/2nnpp2/6P1/3P3B/2N2N2/PPP1QP1P/2KR1BR1 b - - 0 11
+go movetime 100
+f6g5position fen 1rbqr1k1/ppppb1pp/2nnp3/6N1/3P3B/2N5/PPP1QP1P/2KR1BR1 b - - 0 12
+go movetime 100
+e7g5position fen 1rbqr1k1/pppp2pp/2nnp3/6B1/3P4/2N5/PPP1QP1P/2KR1BR1 b - - 0 13
+go movetime 100
+c6e7position fen 1rbqr1k1/ppppn1pp/3np3/6B1/3P2Q1/2N5/PPP2P1P/2KR1BR1 b - - 2 14
+go movetime 100
+e6e5position fen 1rbqr1k1/ppppn1pp/3n1B2/4p3/3P2Q1/2N5/PPP2P1P/2KR1BR1 b - - 1 15
+go movetime 100
+e5d4uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+g8f6position fen rnbqkb1r/pppppppp/5n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2
+go movetime 100
+b8c6position fen r1bqkb1r/pppppppp/2n2n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq d3 0 3
+go movetime 100
+e7e6position fen r1bqkb1r/pppp1ppp/2n1pn2/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4
+go movetime 100
+f8d6position fen r1bqk2r/pppp1ppp/2nbpn2/6B1/3PP3/2N2N2/PPP2PPP/R2QKB1R b KQkq - 3 5
+go movetime 100
+c6d4position fen r1bqk2r/pppp1ppp/3bpn2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq - 0 6
+go movetime 100
+d6h2position fen r1bqk2r/pppp1ppp/4pn2/6B1/3NP3/2N5/PPP2PPR/R2QKB2 b Qkq - 0 7
+go movetime 100
+d7d5position fen r1bqk2r/ppp2ppp/4pn2/3pP1B1/3N4/2N5/PPP2PPR/R2QKB2 b Qkq - 0 8
+go movetime 100
+e8g8position fen r1bq1rk1/ppp2ppp/4pP2/3p2B1/3N4/2N5/PPP2PPR/R2QKB2 b Q - 0 9
+go movetime 100
+g7f6position fen r1bq1rk1/ppp2p1p/4pp1B/3p4/3N4/2N5/PPP2PPR/R2QKB2 b Q - 1 10
+go movetime 100
+f8e8position fen r1bqr1k1/ppp2p1p/4pp1B/3p4/3N2Q1/2N5/PPP2PPR/R3KB2 b Q - 3 11
+go movetime 100
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+position fen rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2
+go movetime 100
+position fen r1bqkb1r/pppppppp/2n2n2/6B1/4P3/3P4/PPP2PPP/RN1QKBNR b KQkq - 2 3
+go movetime 100
+position fen r1bqkbnr/pppppppp/2n5/6B1/4P3/3P1N2/PPP2PPP/RN1QKB1R b KQkq - 4 4
+go movetime 100
+position fen r1bqkbnr/ppp1pppp/2np4/6B1/4P3/3P1N2/PPP1BPPP/RN1QK2R b KQkq - 1 5
+go movetime 100
+position fen r2qkbnr/ppp1pppp/2npb3/6B1/4P3/3P1N2/PPPQBPPP/RN2K2R b KQkq - 3 6
+go movetime 100
+position fen r3kbnr/pppqpppp/2npb3/6B1/4P3/2PP1N2/PP1QBPPP/RN2K2R b KQkq - 0 7
+go movetime 100
+position fen 2kr1bnr/pppqpppp/2npb3/6B1/4P3/2PP1N2/PP1QBPPP/RN3RK1 b - - 2 8
+go movetime 100
+position fen 1k1r1bnr/pppqpppp/2npb3/6B1/1P2P3/2PP1N2/P2QBPPP/RN3RK1 b - b3 0 9
+go movetime 100
+position fen 1k2rbnr/pppqpppp/2npb3/6B1/PP2P3/2PP1N2/3QBPPP/RN3RK1 b - a3 0 10
+go movetime 100
+position fen 1k1r1bnr/pppqpppp/2npb3/1P4B1/P3P3/2PP1N2/3QBPPP/RN3RK1 b - - 0 11
+go movetime 100
+position fen 1k1r1bnr/pppqpppp/3pb3/nP4B1/P3P3/N1PP1N2/3QBPPP/R4RK1 b - - 2 12
+go movetime 100
+position fen 1k1r1bnr/pppqpppp/3pb3/1P4B1/P3P3/NnPP1N2/1Q2BPPP/R4RK1 b - - 4 13
+go movetime 100
+position fen 1k1r1bnr/pppqpppp/3pb3/1P4B1/P3P3/N1PP1N2/1Q2BPPP/R5K1 b - - 0 14
+go movetime 100
+position fen 1k2rbnr/pppqpppp/3pb3/PP4B1/4P3/N1PP1N2/1Q2BPPP/R5K1 b - - 0 15
+go movetime 100
+position fen 1k1r1bnr/pppqpppp/3pb3/PP4B1/2P1P3/N2P1N2/1Q2BPPP/R5K1 b - - 0 16
+go movetime 100
+position fen 1k1r1bnr/pppqpppp/4b3/PP1p4/2P1P3/N2PBN2/1Q2BPPP/R5K1 b - - 1 17
+go movetime 100
+position fen 1k1r1bnr/pppqpppp/4b3/PP6/2P1P3/N3BN2/1Q2BPPP/R5K1 b - - 0 18
+go movetime 100
+position fen 1k1r1bnr/1ppqpppp/P3b3/P7/2P1P3/N3BN2/1Q2BPPP/R5K1 b - - 0 19
+go movetime 100
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+position fen rnbqkb1r/pppppppp/5n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2
+go movetime 100
+position fen r1bqkb1r/pppppppp/2n2n2/8/4P3/2NP4/PPP2PPP/R1BQKBNR b KQkq - 0 3
+go movetime 100
+position fen r1bqkb1r/pppp1ppp/2n2n2/4p1B1/4P3/2NP4/PPP2PPP/R2QKBNR b KQkq - 1 4
+go movetime 100
+position fen r1bqkb1r/ppp2ppp/2n2n2/3pp1B1/4P3/2NP4/PPP1BPPP/R2QK1NR b KQkq - 1 5
+go movetime 100
+position fen r1bqkb1r/ppp2ppp/2n2n2/4p1B1/4N3/3P4/PPP1BPPP/R2QK1NR b KQkq - 0 6
+go movetime 100
+position fen r1bqk2r/ppp2ppp/2n2n2/4p1B1/1b2N3/2PP4/PP2BPPP/R2QK1NR b KQkq - 0 7
+go movetime 100
+position fen r1bqk2r/ppp2ppp/2n2n2/4p1B1/4N3/2PP4/P3BPPP/R2QK1NR b KQkq - 0 8
+go movetime 100
+position fen r1bq1rk1/ppp2ppp/2n2n2/4p1B1/4N3/2PP1N2/P3BPPP/R2QK2R b KQ - 2 9
+go movetime 100
+position fen r2q1rk1/ppp2ppp/2n1bn2/4p1B1/3PN3/2P2N2/P3BPPP/R2QK2R b KQ - 0 10
+go movetime 100
+position fen r2q1rk1/ppp2ppp/4bn2/4p1B1/3PN3/5N2/P3BPPP/R2QK2R b KQ - 0 11
+go movetime 100
+position fen r2q1rk1/ppp2ppp/4bn2/6B1/3NN3/8/P3BPPP/R2QK2R b KQ - 0 12
+go movetime 100
+position fen r2q1rk1/ppp2ppp/5n2/6B1/3NN3/8/b3BPPP/R2Q1RK1 b - - 1 13
+go movetime 100
+position fen r2q1rk1/ppp2ppp/5N2/3b2B1/3N4/8/4BPPP/R2Q1RK1 b - - 0 14
+go movetime 100
+position fen r2q1rk1/ppp2p1p/5p2/3b2B1/3N4/3B4/5PPP/R2Q1RK1 b - - 1 15
+go movetime 100
+position fen r2q1rk1/ppp2p1p/8/3b2pQ/3N4/3B4/5PPP/R4RK1 b - - 1 16
+go movetime 100
+position fen r2q1rk1/ppp2p2/7Q/3b2p1/3N4/3B4/5PPP/R4RK1 b - - 0 17
+go movetime 100
+position fen r2qr1k1/ppp2p1Q/8/3b2p1/3N4/3B4/5PPP/R4RK1 b - - 2 18
+go movetime 100
+position fen r2qrk1Q/ppp2p2/8/3b2p1/3N4/3B4/5PPP/R4RK1 b - - 4 19
+go movetime 100
+position fen r2qr3/ppp1kp2/8/3bQ1p1/3N4/3B4/5PPP/R4RK1 b - - 6 20
+go movetime 100
+position fen r2qr3/ppp1kp2/4b3/4QNp1/8/3B4/5PPP/R4RK1 b - - 8 21
+go movetime 100
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+position fen rnbqkb1r/pppppppp/5n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 2
+go movetime 100
+position fen rnbqkb1r/pppppppp/8/8/4n3/5N2/PPPPQPPP/RNB1KB1R b KQkq - 1 3
+go movetime 100
+position fen rnbqkb1r/pppppppp/3n4/8/3P4/5N2/PPP1QPPP/RNB1KB1R b KQkq d3 0 4
+go movetime 100
+position fen r1bqkb1r/pppppppp/2nn4/8/3P4/2N2N2/PPP1QPPP/R1B1KB1R b KQkq - 2 5
+go movetime 100
+position fen r1bqkb1r/pppp1ppp/2nnp3/6B1/3P4/2N2N2/PPP1QPPP/R3KB1R b KQkq - 1 6
+go movetime 100
+position fen r1bqkb1r/pppp2pp/2nnpp2/8/3P3B/2N2N2/PPP1QPPP/R3KB1R b KQkq - 1 7
+go movetime 100
+position fen r1bqk2r/ppppb1pp/2nnpp2/8/3P3B/2N2N2/PPP1QPPP/2KR1B1R b kq - 3 8
+go movetime 100
+position fen r1bq1rk1/ppppb1pp/2nnpp2/8/3P2PB/2N2N2/PPP1QP1P/2KR1B1R b - g3 0 9
+go movetime 100
+position fen r1bqr1k1/ppppb1pp/2nnpp2/8/3P2PB/2N2N2/PPP1QP1P/2KR1BR1 b - - 2 10
+go movetime 100
+position fen 1rbqr1k1/ppppb1pp/2nnpp2/6P1/3P3B/2N2N2/PPP1QP1P/2KR1BR1 b - - 0 11
+go movetime 100
+position fen 1rbqr1k1/ppppb1pp/2nnp3/6B1/3P4/2N2N2/PPP1QP1P/2KR1BR1 b - - 0 12
+go movetime 100
+position fen 1rbqr1k1/pppp2pp/2nnp3/6N1/3P4/2N5/PPP1QP1P/2KR1BR1 b - - 0 13
+go movetime 100
+position fen 1rbqr1k1/pppp2p1/2nnp2p/6N1/3P3P/2N5/PPP1QP2/2KR1BR1 b - h3 0 14
+go movetime 100
+position fen 1rbqr1k1/pppp2p1/2nnp3/6P1/3P4/2N5/PPP1QP2/2KR1BR1 b - - 0 15
+go movetime 100
+position fen 1rb1r1k1/ppppq1p1/2nnp3/6PQ/3P4/2N5/PPP2P2/2KR1BR1 b - - 2 16
+go movetime 100
+position fen 1rbr2k1/ppppq1p1/2nnp3/6PQ/3P4/2NB4/PPP2P2/2KR2R1 b - - 4 17
+go movetime 100
+position fen 1rbr2k1/ppppq1pB/3np3/6PQ/3n4/2N5/PPP2P2/2KR2R1 b - - 1 18
+go movetime 100
+position fen 1rbr1k2/ppppq1p1/3np1B1/6PQ/3n4/2N5/PPP2P2/2KR2R1 b - - 3 19
+go movetime 100
+uci
+uci
+uci
+uci
+ucinewgame
+isready
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+go movetime 100
+position fen rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2
+go movetime 100
+position fen r1bqkb1r/pppppppp/2n2n2/8/4P3/3P4/PPP1BPPP/RNBQK1NR b KQkq - 2 3
+go movetime 100
+position fen r1bqkb1r/pppp1ppp/2n2n2/4p1B1/4P3/3P4/PPP1BPPP/RN1QK1NR b KQkq - 1 4
+go movetime 100
+position fen r1bqk2r/pppp1ppp/2n2n2/4p1B1/1b2P3/2PP4/PP2BPPP/RN1QK1NR b KQkq - 0 5
+go movetime 100
+position fen r1bqk2r/pppp1ppp/2n2n2/4p1B1/4P3/2NP4/PP2BPPP/R2QK1NR b KQkq - 0 6
+go movetime 100
+position fen r1bqk2r/ppp2ppp/2n2n2/3Np1B1/4P3/3P4/PP2BPPP/R2QK1NR b KQkq - 0 7
+go movetime 100
+position fen r1bq1rk1/ppp2ppp/2n2N2/4p1B1/4P3/3P4/PP2BPPP/R2QK1NR b KQ - 0 8
+go movetime 100
+position fen r1bq1rk1/ppp2p1p/2n2p1B/4p3/4P3/3P4/PP2BPPP/R2QK1NR b KQ - 1 9
+go movetime 100
+position fen r1bqr1k1/ppp2p1p/2n2p1B/4p2B/4P3/3P4/PP3PPP/R2QK1NR b KQ - 3 10
+go movetime 100
+position fen r2qr1k1/ppp2p1p/2n1bp1B/4p2B/4P3/3P1Q2/PP3PPP/R3K1NR b KQ - 5 11
+go movetime 100
+position fen r3r1k1/ppp2p1p/2nqbp1B/4p2B/4P3/3P1Q2/PP2NPPP/R3K2R b KQ - 7 12
+go movetime 100
+position fen r3r1k1/ppp2p1p/2n1bp1B/4p2B/1q2P3/2NP1Q2/PP3PPP/R3K2R b KQ - 9 13
+go movetime 100
+position fen r3r1k1/ppp2p1p/2n1bp1B/4p2B/4P3/2NP1Q2/Pq3PPP/R4RK1 b - - 1 14
+go movetime 100
+position fen r3r1k1/ppp2p1p/2n1bp1B/4p2B/4P3/2qP2Q1/P4PPP/R4RK1 b - - 1 15
+go movetime 100

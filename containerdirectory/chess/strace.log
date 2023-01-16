@@ -1,0 +1,9 @@
+strace: Process 5626 attached with 2 threads
+[pid  5626] read(0, "position fen r3kb1r/p4ppp/2p5/3p1pPK/2pPn3/4P3/P4q1P/RR6 b kq - 1 21\n", 4096) = 69
+[pid  5626] read(0, "go movetime 100\n", 4096) = 16
+[pid  5626] read(0, "position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1\n", 4096) = 73
+[pid  5626] read(0, "go movetime 100\n", 4096) = 16
+[pid  5626] read(0, "position fen rnbqkbnr/pppp1ppp/8/4p3/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2\n", 4096) = 75
+[pid  5626] read(0, "go movetime 100\n", 4096) = 16
+[pid  5626] read(0, "position fen r1bqkbnr/pppp1ppp/2n5/4p3/4P3/3P1Q2/PPP2PPP/RNB1KBNR b KQkq - 2 3\ngo movetime 100\n", 4096) = 95
+[pid  5626] read(0, 
