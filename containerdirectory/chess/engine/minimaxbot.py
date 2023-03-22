@@ -1,3 +1,4 @@
+
 from chess import Board, Move, STARTING_FEN, Piece, PieceType, Color, SQUARES
 import chess
 import random
@@ -156,7 +157,7 @@ def score_board(board):
     return value
 
 
-def minimax(board, maximizing_player, depth):
+def minimax(board, maximizing_player, depth, path=f"logs/log"):
     #if (depth == 0 or board.is_game_over()): We need the opponent to actually take the queen for minimax to 
     # see how bad it is.
     moves = sort_moves(board.legal_moves, maximizing_player)
@@ -166,16 +167,16 @@ def minimax(board, maximizing_player, depth):
         value = -np.Inf
         if(len(list(moves))<3):#Bonus if we are looking at a forcing line
             depth+=1
-            print_to_log("boosting due to forcing line")
-            print_to_log(str(moves))
-            print_to_log(str(depth))
+            print_to_log(path,"boosting due to forcing line")
+            print_to_log(path,str(moves))
+            print_to_log(path,str(depth))
         for move in moves:
             board.push(move)
             mval, _ = minimax(board, not maximizing_player, depth-1)
-            if (mval > value):
+            if (mval > value):55
                 value = mval
                 bestmove = move
-                print_to_log(value, bestmove,  maximizing_player)
+                print_to_log(path,value, bestmove,  maximizing_player, depth)
             board.pop()
     else:
         value = np.Inf
@@ -185,19 +186,20 @@ def minimax(board, maximizing_player, depth):
             if (mval < value):
                 value = mval
                 bestmove = move
-                print_to_log(value, bestmove, maximizing_player)
+                print_to_log(path,value, bestmove, maximizing_player)
             board.pop()
     return value, bestmove
 
 
 
-
-def print_to_log(*args):
-    strline=""
-    for arg in args:
-        strline+=" "+str(arg)
-    with open(f"logs/log", "a") as f:
-        f.write(str(time.asctime()) + "\t" + strline + "\n")
+log_moves=False
+def print_to_log(path,*args):
+    if(log_moves):
+        strline=""
+        for arg in args:
+            strline+=" "+str(arg)
+        with open(path, "a") as f:
+            f.write(str(time.asctime()) + "\t" + strline + "\n")
 
 
 hist = []

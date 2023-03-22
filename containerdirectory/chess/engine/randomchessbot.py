@@ -3,6 +3,8 @@ import random
 
 version="0.1"
 
+
+print("engine up")
 def generate_random():
     #board = Board(fen)
     legal_moves = list(board.legal_moves)

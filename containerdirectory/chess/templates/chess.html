@@ -125,12 +125,14 @@
                         status += ', ' + moveColor + ' is in check'
                   }
 
-                  return continueGame
+                  //return continueGame
             }
 
             $status.html(status)
             $fen.html(game.fen())
             $pgn.html(game.pgn())
+
+	    return continueGame
       }
 
       var config = {
