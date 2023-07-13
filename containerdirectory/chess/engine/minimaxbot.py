@@ -173,7 +173,7 @@ def minimax(board, maximizing_player, depth, path=f"logs/log"):
         for move in moves:
             board.push(move)
             mval, _ = minimax(board, not maximizing_player, depth-1)
-            if (mval > value):55
+            if (mval > value):
                 value = mval
                 bestmove = move
                 print_to_log(path,value, bestmove,  maximizing_player, depth)
