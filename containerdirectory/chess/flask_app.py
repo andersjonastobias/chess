@@ -3,6 +3,7 @@ from flask import render_template
 from flask import request
 import chess
 import chess.engine
+import sys
 
 #engine = chess.engine.SimpleEngine.popen_uci('/usr/games/stockfish', debug=True)
 #engine = chess.engine.SimpleEngine.popen_uci(["python","./engine/randomchessbot.py"], debug=True)
@@ -23,8 +24,7 @@ def make_move():
 	board = chess.Board(fen)
 	print(board)
 	#Unclear why it was necessary to move engine here to make engine work
-	#engine = chess.engine.SimpleEngine.popen_uci(["python","./engine/randomchessbot.py"], debug=True)
-	engine = chess.engine.SimpleEngine.popen_uci(["python","./engine/minimaxbot.py"], debug=True)
+	engine = chess.engine.SimpleEngine.popen_uci([f"{sys.executable}","./engine/minimaxbot.py"], debug=True)
 	result = engine.play(board, chess.engine.Limit(time=0.1))
 	engine.quit()
 	print("result",result)

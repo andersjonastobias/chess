@@ -166,7 +166,7 @@ def minimax(board, maximizing_player, depth, path=f"logs/log"):
     if (maximizing_player):
         value = -np.Inf
         if(len(list(moves))<3):#Bonus if we are looking at a forcing line
-            #depth+=1
+            depth+=1
             print_to_log(path,"boosting due to forcing line")
             print_to_log(path,str(moves))
             print_to_log(path,str(depth))
