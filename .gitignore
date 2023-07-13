@@ -1,3 +1,6 @@
 **/Noter.md
 **/*/__pycache__/*
 /containerdirectory/chess/__pycache__/
+/containerdirectory/chess/engine/log
+/containerdirectory/chess/log
+/containerdirectory/chess/templates/log
